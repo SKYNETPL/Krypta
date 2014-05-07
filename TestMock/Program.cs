@@ -26,6 +26,8 @@ namespace TestMock
             mocks.ReplayAll(); //wdrożenie mocków
             NUnit.Framework.Assert.AreEqual(100, rozliczeniaMock.kosztPrzejazduSamochod(1000, 10F, 5F, 50F));
         }
+
+        // komentarz testowy w VS
     }
 
 }
