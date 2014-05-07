@@ -12,6 +12,8 @@ namespace TestMock
     {
         static void Main(string[] args)
         {
+            
+            //komentarz testowy
 
 
             //Console.WriteLine(rozliczeniaMock.kosztPrzejazduSamochod(1000, 10F, 5F, 50F));
